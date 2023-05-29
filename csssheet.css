@@ -1,0 +1,50 @@
+#hi {
+    text-align: center;
+    color: blue;
+  }
+  
+  .ident {
+      color: black
+  }
+
+  
+  
+  body {
+    height: 200px;
+    width: 50%;
+    background-color: red;
+  }
+  .hi {
+    font-size:medium
+  }
+  p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
+  img {
+filter: saturate(50%);
+}
+
+a {
+    max-width: 40;
+    min-width: 10;
+   }
+
+   body {
+    height: 200px;
+    width: 50%;
+    background-color: brown;
+}
+
+body {
+    height: 200px;
+    width: 50%;
+    background-color: aqua;
+ 
+  }
+  
+  a {
+
+    height: 300px;
+      }
+  
